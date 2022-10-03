@@ -1,7 +1,7 @@
 # Gosokui-Ippansanga_2019-05-04
 東京の皇居で行われた、2019年5月4日の御即位一般参賀
 
-Visit of the General Public to the Imperial Palace after the Accession to the Throne, 2019.5.4
+Visit of the General Public to the Imperial Palace after the Accession to the Throne in Japan on 2019.5.4
 
 ![御即位一般参賀_2019-05-04_001](https://user-images.githubusercontent.com/20723919/193445993-ec4668c4-af8e-4d3c-b53a-551b0d450b61.JPG)
 
